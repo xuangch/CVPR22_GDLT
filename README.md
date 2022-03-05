@@ -11,7 +11,7 @@ This is the code for CVPR2022 paper "Likert Scoring with Grade Decoupling for Lo
 
 ## Features
 
-- TODO: upload the extracted features.
+The features and label files of Rhythmic Gymnastics dataset can be download [here](https://1drv.ms/u/s!AqXkt0Mw7p9llVaV2oV1mwmdAICG).
 
 ## Running
 
