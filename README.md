@@ -15,7 +15,7 @@ This is the code for CVPR2022 paper "Likert Scoring with Grade Decoupling for Lo
 
 ## Running
 
-Please fill in or select the parameters enclosed by {} first.
+Please fill in or select the args enclosed by {} first.
 
 - Training
 
