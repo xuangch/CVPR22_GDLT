@@ -13,6 +13,8 @@ This is the code for CVPR2022 paper "Likert Scoring with Grade Decoupling for Lo
 
 The features and label files of Rhythmic Gymnastics dataset can be download [here](https://1drv.ms/u/s!AqXkt0Mw7p9llVaV2oV1mwmdAICG).
 
+\[23-04-10 Update\] The features and label files of Fis-V dataset can be download [here](https://1drv.ms/u/s!AqXkt0Mw7p9llWEihc533CB87U5P?e=EadhCo).
+
 ## Running
 
 Please fill in or select the args enclosed by {} first.
